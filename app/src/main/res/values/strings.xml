@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IdDog</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Entrar ou cadastrar</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="welcome">"Bem vindo %s!"</string>
+    <string name="invalid_username">Email inválido</string>
+    <string name="login_failed">"Falha ao realizar o login"</string>
+    <string name="error_view_button_text">"Tentar Novamente"</string>
+    <string name="logout_title">Deseja sair da conta?</string>
+    <string name="cancel">Cancelar</string>
+    <string name="confirm_logout">Sair</string>
+
+    <string-array name="dog_categories">
+        <item>Husky</item>
+        <item>Hound</item>
+        <item>Pug</item>
+        <item>Labrador</item>
+    </string-array>
+</resources>

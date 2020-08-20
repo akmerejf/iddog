@@ -1,0 +1,7 @@
+<resources>
+	<dimen name="activity_vertical_margin">28.8dp</dimen>
+	<dimen name="activity_horizontal_margin">28.8dp</dimen>
+	<dimen name="dog_feed_item_height">216dp</dimen>
+	<dimen name="dog_feed_item_width">216dp</dimen>
+	<dimen name="dog_feed_item_margin">3.6dp</dimen>
+</resources>
